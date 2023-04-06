@@ -1,5 +1,4 @@
-/*USE Holos
-*/
+
 DROP TABLE #dadoProcessar
 DROP TABLE #cloneDadoProcessar
 DROP TABLE #tmp_Result
