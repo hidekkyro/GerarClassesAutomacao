@@ -40,7 +40,7 @@ namespace GerarClasses
                     if (item.Tipo == "Classe")
                     {
                         folderPlus = folder + "\\Classe";
-                        contextoClass.Add("public DbSet<" + item.NomeArquivo + "> TipoContato { get; set; }");
+                        contextoClass.Add("public DbSet<" + item.NomeArquivo + "> " + item.NomeArquivo + " { get; set; }");
                     }
                     else
                     {
