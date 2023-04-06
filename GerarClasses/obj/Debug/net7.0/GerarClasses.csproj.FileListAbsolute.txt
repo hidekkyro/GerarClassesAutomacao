@@ -1,0 +1,15 @@
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\bin\Debug\net7.0\GerarClasses.exe
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\bin\Debug\net7.0\GerarClasses.deps.json
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\bin\Debug\net7.0\GerarClasses.runtimeconfig.json
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\bin\Debug\net7.0\GerarClasses.dll
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\bin\Debug\net7.0\GerarClasses.pdb
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\obj\Debug\net7.0\GerarClasses.csproj.AssemblyReference.cache
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\obj\Debug\net7.0\GerarClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\obj\Debug\net7.0\GerarClasses.AssemblyInfoInputs.cache
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\obj\Debug\net7.0\GerarClasses.AssemblyInfo.cs
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\obj\Debug\net7.0\GerarClasses.csproj.CoreCompileInputs.cache
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\obj\Debug\net7.0\GerarClasses.dll
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\obj\Debug\net7.0\refint\GerarClasses.dll
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\obj\Debug\net7.0\GerarClasses.pdb
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\obj\Debug\net7.0\GerarClasses.genruntimeconfig.cache
+C:\Users\leandrohm\source\repos\GerarClassesAutomacao\GerarClasses\obj\Debug\net7.0\ref\GerarClasses.dll
